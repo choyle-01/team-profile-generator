@@ -23,3 +23,5 @@ To run tests, run the following command:
 The GitHub repository can be found [here.](https://github.com/choyle-01/team-profile-generator)
 
 ## Visuals 
+
+The link to a video demonstration can be found [here.](https://drive.google.com/file/d/1B_j6-CSS93Lmw3qfw28PWxD8lfdgyjRL/view?usp=sharing)
